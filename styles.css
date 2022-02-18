@@ -31,7 +31,7 @@ span::before {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: url(pink-heart-png.png);
+    background: url(images/pink-heart-png.png);
     background-size: cover;
     animation: moveShape 1s linear infinite;
 }
